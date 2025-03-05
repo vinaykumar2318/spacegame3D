@@ -33,7 +33,7 @@ pip install PyOpenGL glfw numpy imgui[glfw]
 ### **Launching the Game**
 1. Clone this repository or download the ZIP file:
 ```sh
-git clone https://github.com/vinaykumar/3D-Space-Adventure.git  
+git clone https://github.com/vinaykumar2318/spacegame3D.git
 cd 3D-Space-Adventure  
 ```
 2. Start the game:
